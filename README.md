@@ -9,6 +9,6 @@
 
 ## Дополнительные материалы к разделу 3. Оценка качества резельтатов OCR   
 
-- `OCR_quality.ipynb`: ноутбук с примером реализации функции вычисления метрик **precision**,  **recall**, **F1-score**
+- `OCR_quality.ipynb`: ноутбук с примером реализации функции вычисления метрик **precision**,  **recall**, **F1-score**.
 - `ocr_quality.py`: Python скрипт для выполнения вычислений через командную строку; пример команды запуска `python ocr_quality.py -o ocr_output.txt -gt ground_truth.txt`. Замените `ocr_output.txt` на путь к выходному файлу OCR и `ground_truth.txt` на путь к файлу с эталонным текстом.
   
